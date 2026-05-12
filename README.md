@@ -134,6 +134,6 @@ Contributions are welcome.
 
 ## 📄 License
 
-This project is open-source and available under the [GNU GPL v3.0 License](Licence.md).
+This project is open-source and available under the [GNU GPL v3.0 License](Licence).
 
 ---
