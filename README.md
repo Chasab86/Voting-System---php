@@ -134,6 +134,6 @@ Contributions are welcome.
 
 ## 📄 License
 
-This project is open-source and available under the [GNU GPL v3.0 License](LICENCE.md).
+This project is open-source and available under the [GNU GPL v3.0 License](https://github.com/Chasab86/Voting-System---php/blob/main/LICENSE).
 
 ---
